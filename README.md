@@ -41,7 +41,7 @@ As an experiment, we'll try to keep an infographic of Awesome AI security soluti
 
 _Solutions that use secure enclaves and confidential computing to keep the data in parts of AI workflows private._
 
-- [dstack](https://github.com/Dstack-TEE/dstack) - Open source TEE framework for confidential AI model training and inference with Intel TDX and NVIDIA Confidential Computing support.
+- [dstack](https://github.com/Dstack-TEE/dstack) - Open source TEE framework for confidential AI model training and inference with Intel TDX and NVIDIA Confidential Computing support. [![code](https://img.shields.io/github/license/Dstack-TEE/dstack)](https://github.com/Dstack-TEE/dstack)
 - [Phala Cloud](https://cloud.phala.network/) - Managed TEE platform for confidential AI workloads with high-performance GPU support and enterprise-grade security.
 - [Fortanix Confidential AI](https://www.fortanix.com/platform/confidential-ai) - Run AI models inside Intel SGX and other enclave technologies.
 
